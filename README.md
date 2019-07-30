@@ -1,4 +1,4 @@
-## [View App Demo](https://laughing-villani-37b3fd.netlify.com/)
+## [App Demo](https://laughing-villani-37b3fd.netlify.com/)
 
 
 <br>
