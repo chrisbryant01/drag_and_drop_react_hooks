@@ -1,8 +1,6 @@
-## [View Demo](https://laughing-villani-37b3fd.netlify.com/)
-
+### [View Demo](https://laughing-villani-37b3fd.netlify.com/)
 
 <br>
-
 
 ### Drag and drop todo app using React Hooks API
 
